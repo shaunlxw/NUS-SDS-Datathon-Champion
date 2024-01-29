@@ -1,0 +1,7 @@
+Run the following to install the necessary libraries:
+
+%pip install pandas 
+%pip install matplotlib
+%pip install numpy
+%pip install matplotlib
+%pip install xgboost
